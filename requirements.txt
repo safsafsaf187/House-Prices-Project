@@ -54,3 +54,4 @@ pandas
 numpy
 scikit-learn
 catboost
+seaborn
